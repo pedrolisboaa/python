@@ -3,7 +3,7 @@ b = 0
 try:
     c = a / b
     print(c)
-except ZeroDivisionError as e:
+except Exception as e:
     print(f'Erro : {e}')
 
 
