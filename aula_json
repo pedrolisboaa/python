@@ -1,0 +1,25 @@
+{
+  "nome": "Pedro",
+  "Sobrenome": "Lisboa",
+  "enderecos": [
+    {
+      "rua": "r1",
+      "numero": 3
+    },
+    {
+      "rua": "r1",
+      "numero": 2
+    }
+  ],
+  "altura": 1.9,
+  "numeros_da_sorte": [
+    1,
+    2,
+    3,
+    5,
+    6,
+    9
+  ],
+  "dev": true,
+  "nada": null
+}
